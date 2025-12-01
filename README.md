@@ -88,7 +88,7 @@ Clean and validate a large dataset of Indian PAN numbers. Remove errors, standar
   The PAN number data cleaning and validation project is inspired by and adapted from the comprehensive tutorial by the techTFQ YouTube channel. The step-by-step    SQL techniques for cleaning, validating, and categorizing PAN numbers, including user-defined functions for complex checks, were learned from the video titled     "PAN Card Validation in SQL | Real World Data Cleaning & Validation Project" https://youtu.be/J1vlhH5LFY8?si=VQwnso3AwytRA1vt 
   This resource greatly helped in understanding practical data engineering challenges and solutions for real-world datasets.
   
-  Special thanks to techTFQ [Thoufiq Mohammed](https://www.linkedin.com/in/thoufiq-mohammed/) for sharing this detailed, hands-on project that bridges theoretical knowledge with applied SQL programming for data analysts.
+Special thanks to Respected Sir [Thoufiq Mohammed](https://www.linkedin.com/in/thoufiq-mohammed/) for sharing this detailed, hands-on project that bridges theoretical knowledge with applied SQL programming for data analysts.
 
  ## 🌐 Connect With Me
 
