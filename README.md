@@ -62,6 +62,9 @@ Clean and validate a large dataset of Indian PAN numbers. Remove errors, standar
         CREATE TABLE dump_unclean_pan_numbers (pan_raw_text TEXT);
         CREATE TABLE pan_numbers (pan_raw_text TEXT);
 4. Upload your CSV file :
+  
+![Unclean Pan Number CSV File](https://github.com/Coderbiswajit24/pan-number-validation-postgresql/blob/bda88a90b089a0fb227ab8a6693ae176fff585db/PAN%20Number%20Validation%20Dataset.csv)
+
 
         Import your PAN numbers CSV into dump_unclean_pan_numbers table using your database tool (PgAdmin 4 Tool).
         a). Using psql from your local machine (most common)
@@ -78,7 +81,7 @@ Clean and validate a large dataset of Indian PAN numbers. Remove errors, standar
 
         Replace /full/path/to/PAN Number Validation Dataset.csv with the actual path of your CSV file.
    
-5. Copy data to the working table
+6. Copy data to the working table
 
         INSERT INTO pan_numbers (pan_raw_text)
         SELECT pan_raw_text FROM dump_unclean_pan_numbers;
