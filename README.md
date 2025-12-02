@@ -38,6 +38,16 @@ Clean and validate a large dataset of Indian PAN numbers. Remove errors, standar
        Categorize every PAN
 
 5. Generate summary stats (count valid, invalid, missing)
+ 
+## 🛠️ Tools & Technologies
+
+- 🗃️ PostgreSQL
+- 🧮 SQL
+- 🧱 PL/pgSQL (functions)
+- 🧾 Regular Expressions (Regex)
+- 📊 Data Cleaning & Validation
+- 🖥️ pgAdmin / SQL client
+
 
 ## 🚀 **How To Run This Project**
 1. Requirements :-
