@@ -6,6 +6,7 @@ Cleaned and validated 10,000 Indian PAN numbers using PostgreSQL. Real-world dat
 Clean and validate a large dataset of Indian PAN numbers. Remove errors, standardize formats, and classify as “Valid” or “Invalid” using SQL functions and business rules.
 
 ## 🧩 **Problem Statement**
+![Problem Statement Pdf](https://github.com/Coderbiswajit24/pan-number-validation-postgresql/blob/fd442b058745737b3b8768b3f83235a7dfadf217/PAN%20Number%20Validation%20-%20Problem%20Statement.pdf)
 
 1). Validate each PAN for official format (5 letters, 4 digits, 1 letter)
 
